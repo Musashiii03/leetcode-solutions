@@ -1,7 +1,7 @@
 class MinStack {
 
     public MinStack() {
-        
+        MinStack obj = new MinStack();
     }
     
     public void push(int val) {
