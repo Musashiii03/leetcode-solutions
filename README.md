@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/Musashiii03/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/Musashiii03/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Musashiii03/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0138-copy-list-with-random-pointer](https://github.com/Musashiii03/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/Musashiii03/leetcode-solutions/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/Musashiii03/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/Musashiii03/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 ## Hash Function
 |  |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/Musashiii03/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Musashiii03/leetcode-solutions/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
