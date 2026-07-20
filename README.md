@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0035-search-insert-position](https://github.com/Musashiii03/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Musashiii03/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Musashiii03/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Musashiii03/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Musashiii03/leetcode-solutions/tree/master/1127-last-stone-weight) |
 ## Data Stream
@@ -166,4 +169,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Musashiii03/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
