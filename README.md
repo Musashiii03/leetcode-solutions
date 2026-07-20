@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Musashiii03/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Musashiii03/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/Musashiii03/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Musashiii03/leetcode-solutions/tree/master/0146-lru-cache) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String Matching
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Musashiii03/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0572-subtree-of-another-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Musashiii03/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Musashiii03/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
