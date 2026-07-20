@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Musashiii03/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Musashiii03/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
