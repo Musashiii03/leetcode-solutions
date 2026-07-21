@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Musashiii03/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Musashiii03/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Musashiii03/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
