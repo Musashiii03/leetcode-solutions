@@ -48,7 +48,8 @@ class Solution {
         while (!heap.isEmpty()) {
             Node first = heap.poll();
             if(!result.isEmpty() && first.s == result.charAt(result.length() - 1)){
-                
+                if(heap.isEmpty())
+                    return "";
                 Node second = heap.poll();
                 result.append(second.s);
                 second.frequency--;
