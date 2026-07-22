@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0084-largest-rectangle-in-histogram](https://github.com/Musashiii03/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Musashiii03/leetcode-solutions/tree/master/0860-design-circular-queue) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0138-copy-list-with-random-pointer](https://github.com/Musashiii03/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Musashiii03/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
@@ -43,11 +45,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Matrix
 |  |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Musashiii03/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Musashiii03/leetcode-solutions/tree/master/1127-last-stone-weight) |
@@ -187,6 +192,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Two Pointers
 |  |
