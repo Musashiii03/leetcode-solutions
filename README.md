@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Musashiii03/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Musashiii03/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Musashiii03/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Bit Manipulation
