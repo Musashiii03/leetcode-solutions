@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0086-partition-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Musashiii03/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Musashiii03/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Musashiii03/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
