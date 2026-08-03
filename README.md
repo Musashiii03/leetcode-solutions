@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0094-binary-tree-inorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/Musashiii03/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0931-maximum-frequency-stack](https://github.com/Musashiii03/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
+| [2470-removing-stars-from-a-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Ordered Set
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0572-subtree-of-another-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/1304-longest-happy-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Musashiii03/leetcode-solutions/tree/master/0067-add-binary) |
+| [2470-removing-stars-from-a-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
