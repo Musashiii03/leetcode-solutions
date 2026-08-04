@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0018-4sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Musashiii03/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Musashiii03/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Musashiii03/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Musashiii03/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Musashiii03/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Musashiii03/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Musashiii03/leetcode-solutions/tree/master/0048-rotate-image) |
 ## Linked List
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0002-add-two-numbers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Musashiii03/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Musashiii03/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Musashiii03/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Musashiii03/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/Musashiii03/leetcode-solutions/tree/master/0224-basic-calculator) |
