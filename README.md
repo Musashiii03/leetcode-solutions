@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0036-valid-sudoku](https://github.com/Musashiii03/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Musashiii03/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Musashiii03/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Musashiii03/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Musashiii03/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0001-two-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Musashiii03/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Musashiii03/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Musashiii03/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Musashiii03/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Musashiii03/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0036-valid-sudoku](https://github.com/Musashiii03/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Musashiii03/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Musashiii03/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
 | ------- |
