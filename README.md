@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0907-koko-eating-bananas](https://github.com/Musashiii03/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Musashiii03/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Musashiii03/leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Musashiii03/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/Musashiii03/leetcode-solutions/tree/master/1962-single-threaded-cpu) |
 ## Binary Search
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0931-maximum-frequency-stack](https://github.com/Musashiii03/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Musashiii03/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Musashiii03/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/Musashiii03/leetcode-solutions/tree/master/1962-single-threaded-cpu) |
 ## Counting
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0061-rotate-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0086-partition-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Musashiii03/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
 |  |
