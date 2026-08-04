@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Musashiii03/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/Musashiii03/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
+| [0969-number-of-recent-calls](https://github.com/Musashiii03/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/Musashiii03/leetcode-solutions/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/Musashiii03/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 ## Math
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Musashiii03/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/Musashiii03/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
