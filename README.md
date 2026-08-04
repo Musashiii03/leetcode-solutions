@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Musashiii03/leetcode-solutions/tree/master/0860-design-circular-queue) |
+| [0898-transpose-matrix](https://github.com/Musashiii03/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Musashiii03/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Musashiii03/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Musashiii03/leetcode-solutions/tree/master/1127-last-stone-weight) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0036-valid-sudoku](https://github.com/Musashiii03/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Musashiii03/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Musashiii03/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0898-transpose-matrix](https://github.com/Musashiii03/leetcode-solutions/tree/master/0898-transpose-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Musashiii03/leetcode-solutions/tree/master/0067-add-binary) |
+| [0898-transpose-matrix](https://github.com/Musashiii03/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [2470-removing-stars-from-a-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
