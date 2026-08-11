@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0067-add-binary](https://github.com/Musashiii03/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Musashiii03/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/Musashiii03/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0371-sum-of-two-integers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0067-add-binary](https://github.com/Musashiii03/leetcode-solutions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Musashiii03/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0371-sum-of-two-integers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
 | ------- |
