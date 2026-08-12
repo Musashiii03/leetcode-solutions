@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1014-k-closest-points-to-origin](https://github.com/Musashiii03/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Musashiii03/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Musashiii03/leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/Musashiii03/leetcode-solutions/tree/master/1184-car-pooling) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Musashiii03/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/Musashiii03/leetcode-solutions/tree/master/1962-single-threaded-cpu) |
 ## Binary Search
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Musashiii03/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1184-car-pooling](https://github.com/Musashiii03/leetcode-solutions/tree/master/1184-car-pooling) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Musashiii03/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/Musashiii03/leetcode-solutions/tree/master/1962-single-threaded-cpu) |
 ## Counting
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0789-kth-largest-element-in-a-stream](https://github.com/Musashiii03/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Musashiii03/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Musashiii03/leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/Musashiii03/leetcode-solutions/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1962-single-threaded-cpu](https://github.com/Musashiii03/leetcode-solutions/tree/master/1962-single-threaded-cpu) |
 ## Data Stream
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0067-add-binary](https://github.com/Musashiii03/leetcode-solutions/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/Musashiii03/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [1184-car-pooling](https://github.com/Musashiii03/leetcode-solutions/tree/master/1184-car-pooling) |
 | [2470-removing-stars-from-a-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Musashiii03/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+## Prefix Sum
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/Musashiii03/leetcode-solutions/tree/master/1184-car-pooling) |
 <!---LeetCode Topics End-->
