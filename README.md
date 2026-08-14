@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Musashiii03/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/Musashiii03/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Musashiii03/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 ## Math
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0067-add-binary](https://github.com/Musashiii03/leetcode-solutions/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/Musashiii03/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0572-subtree-of-another-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0649-dota2-senate](https://github.com/Musashiii03/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/Musashiii03/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/1304-longest-happy-string) |
 ## Two Pointers
