@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Musashiii03/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Musashiii03/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0435-non-overlapping-intervals](https://github.com/Musashiii03/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Musashiii03/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/Musashiii03/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Musashiii03/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0055-jump-game](https://github.com/Musashiii03/leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Musashiii03/leetcode-solutions/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Musashiii03/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Musashiii03/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Musashiii03/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0053-maximum-subarray](https://github.com/Musashiii03/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Musashiii03/leetcode-solutions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Musashiii03/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Geometry
 |  |
 | ------- |
