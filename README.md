@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0355-design-twitter](https://github.com/Musashiii03/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/Musashiii03/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0443-string-compression](https://github.com/Musashiii03/leetcode-solutions/tree/master/0443-string-compression) |
 | [0572-subtree-of-another-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0649-dota2-senate](https://github.com/Musashiii03/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/Musashiii03/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Musashiii03/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Musashiii03/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/Musashiii03/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/1304-longest-happy-string) |
 ## Two Pointers
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0151-reverse-words-in-a-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Musashiii03/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Musashiii03/leetcode-solutions/tree/master/0443-string-compression) |
+| [0768-partition-labels](https://github.com/Musashiii03/leetcode-solutions/tree/master/0768-partition-labels) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Musashiii03/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
