@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0898-transpose-matrix](https://github.com/Musashiii03/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Musashiii03/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Musashiii03/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1046-max-consecutive-ones-iii](https://github.com/Musashiii03/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Musashiii03/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Musashiii03/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Musashiii03/leetcode-solutions/tree/master/1184-car-pooling) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0069-sqrtx](https://github.com/Musashiii03/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Musashiii03/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0907-koko-eating-bananas](https://github.com/Musashiii03/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Musashiii03/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Musashiii03/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Musashiii03/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Musashiii03/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Musashiii03/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Musashiii03/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Musashiii03/leetcode-solutions/tree/master/1184-car-pooling) |
 ## Longest Increasing Subsequence
 |  |
