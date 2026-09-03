@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Musashiii03/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Musashiii03/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Musashiii03/leetcode-solutions/tree/master/1184-car-pooling) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Musashiii03/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Musashiii03/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/Musashiii03/leetcode-solutions/tree/master/1962-single-threaded-cpu) |
 ## Binary Search
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/Musashiii03/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Musashiii03/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Musashiii03/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Musashiii03/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0053-maximum-subarray](https://github.com/Musashiii03/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Musashiii03/leetcode-solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Musashiii03/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Musashiii03/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Geometry
 |  |
 | ------- |
