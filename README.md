@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0134-gas-station](https://github.com/Musashiii03/leetcode-solutions/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Musashiii03/leetcode-solutions/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/Musashiii03/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Musashiii03/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Musashiii03/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0056-merge-intervals](https://github.com/Musashiii03/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Musashiii03/leetcode-solutions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Musashiii03/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Musashiii03/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Musashiii03/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Musashiii03/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Musashiii03/leetcode-solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
