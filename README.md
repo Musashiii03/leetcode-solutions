@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0380-insert-delete-getrandom-o1](https://github.com/Musashiii03/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/Musashiii03/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Musashiii03/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0523-continuous-subarray-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0355-design-twitter](https://github.com/Musashiii03/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Musashiii03/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0523-continuous-subarray-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Musashiii03/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0224-basic-calculator](https://github.com/Musashiii03/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0371-sum-of-two-integers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Musashiii03/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0523-continuous-subarray-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Musashiii03/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Musashiii03/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Musashiii03/leetcode-solutions/tree/master/1184-car-pooling) |
 ## Longest Increasing Subsequence
@@ -436,4 +440,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Musashiii03/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
