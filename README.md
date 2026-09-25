@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Musashiii03/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Musashiii03/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Musashiii03/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Musashiii03/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0098-validate-binary-search-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Musashiii03/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0100-same-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Musashiii03/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Musashiii03/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Musashiii03/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
