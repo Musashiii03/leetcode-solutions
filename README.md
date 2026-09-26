@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Musashiii03/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0772-construct-quad-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Musashiii03/leetcode-solutions/tree/master/0860-design-circular-queue) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0036-valid-sudoku](https://github.com/Musashiii03/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Musashiii03/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Musashiii03/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0772-construct-quad-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0772-construct-quad-tree) |
 | [0898-transpose-matrix](https://github.com/Musashiii03/leetcode-solutions/tree/master/0898-transpose-matrix) |
 ## Linked List
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0337-house-robber-iii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0772-construct-quad-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Musashiii03/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Musashiii03/leetcode-solutions/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0772-construct-quad-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0772-construct-quad-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/Musashiii03/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
