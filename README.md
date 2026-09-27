@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0101-symmetric-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -472,4 +475,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0337-house-robber-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
