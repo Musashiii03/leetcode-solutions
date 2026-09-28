@@ -1,0 +1,25 @@
+import java.util.Stack;
+
+class Solution {
+    public int evalRPN(String[] tokens) {
+        Stack<Integer> stack = new Stack<>();
+        for(int i = 0; i < tokens.length; i++){
+            if(tokens[i].equals("+") || tokens[i].equals("-") || tokens[i].equals("*") || tokens[i].equals("/")){
+                int b = stack.pop();
+                int a = stack.pop();
+                if(tokens[i].equals("+"))
+                    stack.push(a + b);
+                else if(tokens[i].equals("-"))
+                    stack.push(a - b);
+                else if(tokens[i].equals("*"))
+                    stack.push(a * b);
+                else
+                    stack.push(a / b);
+            } else {
+                int current = Integer.parseInt(tokens[i]);
+                stack.push(current);
+            }
+        }
+        return stack.peek();       
+    }
+}

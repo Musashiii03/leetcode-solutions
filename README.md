@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Musashiii03/leetcode-solutions/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Musashiii03/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Musashiii03/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0084-largest-rectangle-in-histogram](https://github.com/Musashiii03/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Musashiii03/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Musashiii03/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Musashiii03/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0931-maximum-frequency-stack](https://github.com/Musashiii03/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0048-rotate-image](https://github.com/Musashiii03/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Musashiii03/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Musashiii03/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Musashiii03/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Musashiii03/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0371-sum-of-two-integers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Musashiii03/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
