@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0018-4sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Musashiii03/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Musashiii03/leetcode-solutions/tree/master/0274-h-index) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0138-copy-list-with-random-pointer](https://github.com/Musashiii03/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Musashiii03/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Musashiii03/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0772-construct-quad-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0772-construct-quad-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/Musashiii03/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0061-rotate-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Musashiii03/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Musashiii03/leetcode-solutions/tree/master/0443-string-compression) |
@@ -489,4 +493,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0113-path-sum-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
