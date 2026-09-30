@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0816-design-hashset](https://github.com/Musashiii03/leetcode-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Musashiii03/leetcode-solutions/tree/master/0817-design-hashmap) |
 | [0931-maximum-frequency-stack](https://github.com/Musashiii03/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Musashiii03/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Musashiii03/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Musashiii03/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Musashiii03/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/Musashiii03/leetcode-solutions/tree/master/1184-car-pooling) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Musashiii03/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Musashiii03/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/Musashiii03/leetcode-solutions/tree/master/1962-single-threaded-cpu) |
 ## Counting
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0229-majority-element-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Musashiii03/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Musashiii03/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
 | ------- |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Musashiii03/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Musashiii03/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
 |  |
