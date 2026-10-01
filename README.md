@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Musashiii03/leetcode-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Musashiii03/leetcode-solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Musashiii03/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Musashiii03/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Musashiii03/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0045-jump-game-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Musashiii03/leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Musashiii03/leetcode-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Musashiii03/leetcode-solutions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Musashiii03/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Musashiii03/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Musashiii03/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
