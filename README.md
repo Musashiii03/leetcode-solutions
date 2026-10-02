@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Musashiii03/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Musashiii03/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/Musashiii03/leetcode-solutions/tree/master/1962-single-threaded-cpu) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Musashiii03/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Musashiii03/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Musashiii03/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Binary Search
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0380-insert-delete-getrandom-o1](https://github.com/Musashiii03/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Musashiii03/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Musashiii03/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0201-bitwise-and-of-numbers-range](https://github.com/Musashiii03/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Musashiii03/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Musashiii03/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3394-minimum-array-end](https://github.com/Musashiii03/leetcode-solutions/tree/master/3394-minimum-array-end) |
 ## Simulation
 |  |
@@ -516,8 +519,17 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Musashiii03/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Musashiii03/leetcode-solutions/tree/master/0148-sort-list) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Musashiii03/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Musashiii03/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
