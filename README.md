@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0056-merge-intervals](https://github.com/Musashiii03/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Musashiii03/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Musashiii03/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Musashiii03/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Musashiii03/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Musashiii03/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Musashiii03/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Musashiii03/leetcode-solutions/tree/master/0078-subsets) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Musashiii03/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Musashiii03/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Musashiii03/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Musashiii03/leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0800-letter-case-permutation](https://github.com/Musashiii03/leetcode-solutions/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Musashiii03/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
