@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0649-dota2-senate](https://github.com/Musashiii03/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/Musashiii03/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [0800-letter-case-permutation](https://github.com/Musashiii03/leetcode-solutions/tree/master/0800-letter-case-permutation) |
 | [1304-longest-happy-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Musashiii03/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Musashiii03/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0201-bitwise-and-of-numbers-range](https://github.com/Musashiii03/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Musashiii03/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/Musashiii03/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0800-letter-case-permutation](https://github.com/Musashiii03/leetcode-solutions/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Musashiii03/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3394-minimum-array-end](https://github.com/Musashiii03/leetcode-solutions/tree/master/3394-minimum-array-end) |
 ## Simulation
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0022-generate-parentheses](https://github.com/Musashiii03/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0800-letter-case-permutation](https://github.com/Musashiii03/leetcode-solutions/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Musashiii03/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Merge Sort
 |  |
