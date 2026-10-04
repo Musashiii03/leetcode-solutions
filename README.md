@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0022-generate-parentheses](https://github.com/Musashiii03/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Musashiii03/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/Musashiii03/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Musashiii03/leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0216-combination-sum-iii) |
