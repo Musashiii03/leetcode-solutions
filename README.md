@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0012-integer-to-roman](https://github.com/Musashiii03/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Musashiii03/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Musashiii03/leetcode-solutions/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/Musashiii03/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Musashiii03/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Musashiii03/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/Musashiii03/leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0045-jump-game-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Musashiii03/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Musashiii03/leetcode-solutions/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/Musashiii03/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0337-house-robber-iii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0435-non-overlapping-intervals](https://github.com/Musashiii03/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Musashiii03/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0077-combinations](https://github.com/Musashiii03/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Musashiii03/leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Musashiii03/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Musashiii03/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0800-letter-case-permutation](https://github.com/Musashiii03/leetcode-solutions/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Musashiii03/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
